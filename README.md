@@ -1,2 +1,2 @@
 # MCLSaveExport
-Export and import Minecraft Legends Save Files
+Export and import Minecraft Legends save files
